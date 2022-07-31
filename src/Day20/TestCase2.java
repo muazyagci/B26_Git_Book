@@ -1,4 +1,4 @@
-package TestCase002;
+package Day20;
 
 public class TestCase2 {
     //settıng up test case 2
